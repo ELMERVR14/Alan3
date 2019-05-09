@@ -18,7 +18,4 @@ access_product_qty_per_page,product.qty_per_page,model_product_qty_per_page,,1,0
 access_product_qty_per_page_website_designer,product.qty_per_page,model_product_qty_per_page,website.group_website_designer,1,1,1,1
 access_product_tab_products,tab.products.all,model_tab_products,,1,0,0,0
 access_product_tab_products_designer,tab.products.designer,model_tab_products,website.group_website_designer,1,1,1,1
-access_brand_tabs,access_brand_tabs,model_brand_tabs,base.group_user,1,0,0,0
-access_brand_tab_heads,access_brand_tab_heads,model_brand_tab_heads,base.group_user,1,0,0,0
 access_product_tab_brands,tab.brands,model_tab_brands,,1,1,1,1
-
