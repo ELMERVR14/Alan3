@@ -35,6 +35,7 @@
       <script type="text/javascript" src="/alan_customize/static/src/js/lib/jquery.counterup.min.js"></script>
       <script type="text/javascript" src="/alan_customize/static/src/js/jquery.countdown.min.js"></script>
       <script type="text/javascript" src="/alan_customize/static/src/js/custom.js"></script>
+	  <script type="text/javascript" src="/alan_customize/static/src/js/website_sale_comare.js"></script>
       <script type="text/javascript" src="/alan_customize/static/src/js/product_configure_mixin.js"></script>
 
     </xpath>
